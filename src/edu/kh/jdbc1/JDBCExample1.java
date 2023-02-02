@@ -15,7 +15,7 @@ public class JDBCExample1 {
 		// java.sql 패키지에서 제공
 		
 		// * JDBC를 이용한 애플리케이션을 만들 때 필요한 것
-		// 1. Java의 JDBC 관련 인터페이스(jaca.sql에서 이미 제공)
+		// 1. Java의 JDBC 관련 인터페이스(java.sql에서 이미 제공)
 		// 2. DBMS(Oracle)
 		// 3. Oracle에서 Java 애플리케이션과 연결할 때 사용할
 		// 	  JDBC를 상속받아 구현한 클래스 모음(ojdbc11.jar 라이브러리)
